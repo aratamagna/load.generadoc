@@ -3,34 +3,39 @@
     "id": "1",
     "name": "Contrato de Trabajo",
     "label": "",
-    "url": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlanillaModeloContratoExtranjeto_VersinFinal_.html",
+    "url": "",
+    "templateUrl": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlanillaModeloContratoExtranjeto_VersinFinal_.html",
     "type": "html"
   },
   {
     "id": "2",
     "name": "Renuncia Voluntaria",
     "label": "",
-    "url": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlanillaRenunciaVoluntaria_VersinFinal_.docx.html",
+    "url": "",
+    "templateUrl": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlanillaRenunciaVoluntaria_VersinFinal_.docx.html",
     "type": "html"
   },
   {
     "id": "3",
     "name": "Contrato de prestación de servicios",
     "label": "",
-    "url": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlantillaCONTRATOHONORARIOS_VERSIONFINAL_.doc.html",
+    "url": "",
+    "templateUrl": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlantillaCONTRATOHONORARIOS_VERSIONFINAL_.doc.html",
     "type": "html"
   },
   {
     "id": "4",
     "name": "Carta aviso termino de contrato de trabajo",
     "label": "",
-    "url": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlantillaCartaDespido_VERSINFINAL_.docx.html",
+    "url": "",
+    "templateUrl": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlantillaCartaDespido_VERSINFINAL_.docx.html",
     "type": "html"
   },
   {
     "id": "",
     "name": "",
     "label": "",
+    "templateUrl": "",
     "url": "",
     "type": ""
   }
