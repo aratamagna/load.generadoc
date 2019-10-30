@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Contrato de Trabajo",
     "label": "",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/form/ContratoExtranjeto.json",
     "templateUrl": "https://raw.githubusercontent.com/aratamagna/load.generadoc/master/documents/PlanillaModeloContratoExtranjeto_VersinFinal_.html",
     "type": "html"
   },
