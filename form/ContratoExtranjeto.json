@@ -130,7 +130,7 @@
       "key": "COMUNA_TRABAJADOR",
       "label": "COMUNA COLABORADOR",
       "value": "",
-      "type": "text,
+      "type": "text",
       "required": true,
       "order": 16
     },
