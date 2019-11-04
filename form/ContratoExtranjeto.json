@@ -82,7 +82,7 @@
     },
     {
       "key": "PROFESION",
-      "label": PROFESION"",
+      "label": "PROFESION",
       "value": "",
       "type": "text",
       "required": true,
